@@ -1,2 +1,1 @@
-# SimpleRSIMFIbot
-In this cBot that created in cTrader, we use MFI &amp; RSI strategy for open sell or buy positions.
+Expert with C# in cTrader by Jaywood team website: https://jaywood.pro created by: Mohammad Javad Ghane
